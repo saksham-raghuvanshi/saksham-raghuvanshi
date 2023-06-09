@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my own project Best Deals Info - Hello, Discounts!](https://bestdealsinfo.com)
 
-- 🌱 I’m currently learning **Full stack web developer, also a Flutter**
+- 🌱 I’m currently learning **Full stack web developer, also a React-Native**
 
 - 👯 I’m looking to collaborate on **MERN**
 
