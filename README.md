@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sakshamraghuvanshi8@gmail.com**
 
-- My other interests aside from Full Stack Development are Artificial intelligence and Wordpress development
+- 📚 My other interests aside from Full Stack Development are Artificial intelligence and Wordpress development
 
 - 🌟 If you have any questions, collaboration opportunities, or just want to connect, feel free to reach out!
 
