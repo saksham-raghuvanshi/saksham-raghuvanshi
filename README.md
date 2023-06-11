@@ -13,9 +13,12 @@
 
 - 💬 Ask me about **React, Wordpress**
 
-- 📫 How to reach me **sakshamraghuvanshi123@gmail.com**
+- 📫 How to reach me **sakshamraghuvanshi8@gmail.com**
 
 - My other interests aside from Full Stack Development are Artificial intelligence and Wordpress development
+
+- 🌟 If you have any questions, collaboration opportunities, or just want to connect, feel free to reach out!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
