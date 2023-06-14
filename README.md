@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **MERN**
 
-- 👨‍💻 All of my projects are available at [https://Frontendgyaam.com](https://Frontendgyaam.com)
+- 👨‍💻 All of my projects are available at [https://Frontendgyaan.com](https://Frontendgyaan.com)
 
-- 📝 I regularly write articles on [https://Frontendgyaam.com](https://Frontendgyaam.com)
+- 📝 I regularly write articles on [https://Frontendgyaan.com](https://Frontendgyaan.com)
 
 - 💬 Ask me about **React, Wordpress**
 
