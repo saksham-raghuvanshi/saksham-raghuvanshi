@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham Raghuvanshi</h1>
-<h3 align="center">A passionate frontend developers</h3>
+
 
 - 🔭 I’m currently working on [my own project Best Deals Info - Hello, Discounts!](https://bestdealsinfo.com)
 
