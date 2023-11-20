@@ -1,23 +1,20 @@
-<h1 align="center">Hi 👋, I'm Saksham Raghuvanshi</h1>
+<h1 align="center">Hey there! 👋 I'm Saksham Raghuvanshi, Founder at NotatMRP</h1>
 
+<p align="center">
+  Welcome to my coding universe, where I turn ideas into reality and build the future at <a href="https://notatmrp.com">NotatMRP</a>.
+</p>
 
-- 🔭 I’m currently working on [my own project Best Deals Info - Hello, Discounts!](https://bestdealsinfo.com)
+- 🔭 Currently crafting the future with [NotatMRP](https://notatmrp.com)
+- 🌱 Learning the art of **Full Stack Web Development with Laravel** and diving deep into **React-Native**
+- 👯 Open to collaboration in the world of **STARTUP**
+- 👨‍💻 Explore my projects at [Frontendgyaan.com](https://Frontendgyaan.com)
+- 📝 Sharing my insights and experiences at [Frontendgyaan.com](https://Frontendgyaan.com)
+- 💬 Let's chat about all things **ReactJS**
+- 📫 Reach me at **sakshamraghuvanshi8@gmail.com**
+- 📚 Passionate about not only Full Stack Development but also diving into the realms of Artificial Intelligence and Business Management
 
-- 🌱 I’m currently learning **Full stack web developer, also a React-Native**
+🌟 If you have questions, exciting collaboration opportunities, or just want to connect, feel free to reach out!
 
-- 👯 I’m looking to collaborate on **MERN**
-
-- 👨‍💻 All of my projects are available at [https://Frontendgyaan.com](https://Frontendgyaan.com)
-
-- 📝 I regularly write articles on [https://Frontendgyaan.com](https://Frontendgyaan.com)
-
-- 💬 Ask me about **ReactJS , WordPress**
-
-- 📫 How to reach me **sakshamraghuvanshi8@gmail.com**
-
-- 📚 My other interests aside from Full Stack Development are Artificial intelligence and WordPress development
-
-- 🌟 If you have any questions, collaboration opportunities, or just want to connect, feel free to reach out!
 
 
 <h3 align="left">Connect with me:</h3>
