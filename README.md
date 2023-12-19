@@ -1,12 +1,12 @@
-<h1 align="left">Hey there! 👋 I'm Saksham Raghuvanshi, Founder at NotatMRP</h1>
+<h1 align="left">Hey there! 👋 I'm Saksham Raghuvanshi, Founder at Not@Mrp</h1>
 
 ###
 
 <p align="center">
-  Welcome to my coding universe, where I turn ideas into reality and build the future at <a href="https://notatmrp.com">NotatMRP</a>.
+  Welcome to my coding universe, where I turn ideas into reality and build the future at <a href="https://notatmrp.com">NotAtMRP</a>.
 </p>
 
-- 🔭 Currently crafting the future with [NotatMRP](https://notatmrp.com)
+- 🔭 Currently crafting the future with [NotAtMRP](https://notatmrp.com)
 - 🌱 Learning the art of **Full Stack Web Development with Laravel** and diving deep into **React-Native**
 - 👯 Open to collaboration in the world of **STARTUP**
 - 👨‍💻 Explore my projects at [Frontendgyaan.com](https://Frontendgyaan.com)
