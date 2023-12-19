@@ -12,7 +12,7 @@
 - 👨‍💻 Explore my projects at [Frontendgyaan.com](https://Frontendgyaan.com)
 - 📝 Sharing my insights and experiences at [Frontendgyaan.com](https://Frontendgyaan.com)
 - 💬 Let's chat about all things **ReactJS**
-- 📫 Reach me at **sakshamraghuvanshi8@gmail.com**
+- 📫 Reach me at **saksham@notatmrp.com**
 - 📚 Passionate about not only Full Stack Development but also diving into the realms of Artificial Intelligence and Business Management
 
 🌟 If you have questions, exciting collaboration opportunities, or just want to connect, feel free to reach out!
