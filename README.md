@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 Currently crafting the future with [NotAtMRP](https://notatmrp.com)
-- 🌱 Learning the art of **Full Stack Web Development with Laravel** and diving deep into **React-Native**
+- 🌱 Learning the art of **Full Stack Web Development with Laravel** and diving deep into **Flutter**
 - 👯 Open to collaboration in the world of **STARTUP**
 - 👨‍💻 Explore my projects at [Frontendgyaan.com](https://Frontendgyaan.com)
 - 📝 Sharing my insights and experiences at [Frontendgyaan.com](https://Frontendgyaan.com)
