@@ -1,19 +1,20 @@
-<h1 align="left">Hey there! 👋 I'm Saksham Raghuvanshi, Founder at Not@Mrp</h1>
+<h1 align="left">Hey there! 👋 I'm Saksham Raghuvanshi, Founder at NOT@MRP</h1>
 
 ###
 
 <p align="center">
-  Welcome to my coding universe, where I turn ideas into reality and build the future at <a href="https://notatmrp.com">NotAtMRP</a>.
+  Step into my coding universe, where innovation meets execution, and dreams transform into reality at <a href="https://notatmrp.com">NOT@MRP</a>.
 </p>
 
+
 - 🔭 Currently crafting the future with [NotAtMRP](https://notatmrp.com)
-- 🌱 Learning the art of **Full Stack Web Development with Laravel** and diving deep into **Flutter**
+- 🌱 Learning the art of **Full Stack Web Development** and diving deep into **React Native**
 - 👯 Open to collaboration in the world of **STARTUP**
 - 👨‍💻 Explore my projects at [Frontendgyaan.com](https://Frontendgyaan.com)
 - 📝 Sharing my insights and experiences at [Frontendgyaan.com](https://Frontendgyaan.com)
-- 💬 Let's chat about all things **ReactJS**
+- 💬 Let's chat about all things
 - 📫 Reach me at **saksham@notatmrp.com**
-- 📚 Passionate about not only Full Stack Development but also diving into the realms of Artificial Intelligence and Business Management
+📚 Passionate about Full Stack Development, Finance, and Business Management
 
 🌟 If you have questions, exciting collaboration opportunities, or just want to connect, feel free to reach out!
 
