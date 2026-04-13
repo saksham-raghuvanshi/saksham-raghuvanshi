@@ -1,23 +1,29 @@
-<h1 align="left">Hey there! 👋 I'm Saksham Raghuvanshi, Founder at NOT@MRP</h1>
-
-###
+<h1 align="center">Saksham Raghuvanshi 🚀</h1>
+<h3 align="center">Founder @ NOT@MRP | Building the Future of Local Commerce</h3>
 
 <p align="center">
-  Step into my coding universe, where innovation meets execution, and dreams transform into reality at <a href="https://notatmrp.com">NOT@MRP</a>.
+  Empowering local businesses with technology, zero-commission growth, and better customer experiences.
 </p>
 
+---
 
-- 🔭 Currently crafting the future with [NotAtMRP](https://notatmrp.com)
-- 🌱 Learning the art of **Full Stack Web Development** and diving deep into **React Native**
-- 👯 Open to collaboration in the world of **STARTUP**
-- 👨‍💻 Explore my projects at [Frontendgyaan.com](https://Frontendgyaan.com)
-- 📝 Sharing my insights and experiences at [Frontendgyaan.com](https://Frontendgyaan.com)
-- 💬 Let's chat about all things
-- 📫 Reach me at **saksham@notatmrp.com**
-📚 Passionate about Full Stack Development, Finance, and Business Management
+### 🚀 About Me  
+- 🏪 Founder of <strong>NOT@MRP</strong> — redefining local shopping  
+- ⚡ Building a <strong>merchant-first, zero-commission ecosystem</strong>  
+- 🌱 Learning & building in <strong>Full Stack</strong> & <strong>React Native</strong>  
+- 💡 Passionate about <strong>Startups, Product, and Growth</strong>  
 
-🌟 If you have questions, exciting collaboration opportunities, or just want to connect, feel free to reach out!
+---
 
+### 🌐 Links  
+- 🔗 Website: https://notatmrp.com  
+- 💻 Projects: https://frontendgyaan.com  
+- 📩 Email: saksham@notatmrp.com  
+
+---
+
+### ⚡ Vision  
+To make local shopping stronger, smarter, and more rewarding through technology.
 
 ###
 
