@@ -1,5 +1,5 @@
 <h1 align="center">Saksham Raghuvanshi 🚀</h1>
-<h3 align="center">Founder @ NOT@MRP | Building the Future of Local Commerce</h3>
+<h3 align="center">Founder @NOT@MRP | Building the Future of Local Commerce</h3>
 
 <p align="center">
   Empowering local businesses with technology, zero-commission growth, and better customer experiences.
